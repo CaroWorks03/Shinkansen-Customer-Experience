@@ -49,9 +49,7 @@ The output should be a CSV file with **35,602** entries and two columns:
 ├── notebooks
 │   ├── data_preprocessing.ipynb
 │   ├── model_training.ipynb
-│   ├── evaluation.ipynb
 ├── models
-│   ├── final_model.pkl
 ├── submission.csv
 ├── README.md
 ```
@@ -63,7 +61,4 @@ The model's performance is determined by its **accuracy score**, with the highes
 - Fine-tuning models to improve accuracy.
 - Feature importance analysis to gain insights into key travel experience factors.
 - Deploying the model for real-time predictions.
-
----
-Feel free to contribute and improve the project! 🚄
 
